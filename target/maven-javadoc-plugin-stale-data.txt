@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'C:/Users/jimen/Documents/NetBeansProjects/ProyectoV04/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jimen/Documents/NetBeansProjects/ProyectoV04/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProyectoV04 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ProyectoV04 1.0-SNAPSHOT API'
+com.mycompany.proyectov04
+'C:/Users/jimen/Documents/NetBeansProjects/ProyectoV04/src/main/java/com/mycompany/proyectov04/AdministracionEscolar.java'
+'C:/Users/jimen/Documents/NetBeansProjects/ProyectoV04/src/main/java/com/mycompany/proyectov04/Alumno.java'
+'C:/Users/jimen/Documents/NetBeansProjects/ProyectoV04/src/main/java/com/mycompany/proyectov04/GeneradorDatosPersonales.java'
+'C:/Users/jimen/Documents/NetBeansProjects/ProyectoV04/src/main/java/com/mycompany/proyectov04/GeneradorDeNombres.java'
+'C:/Users/jimen/Documents/NetBeansProjects/ProyectoV04/src/main/java/com/mycompany/proyectov04/GeneradorNumerosInscripcion.java'
+'C:/Users/jimen/Documents/NetBeansProjects/ProyectoV04/src/main/java/com/mycompany/proyectov04/GeneraLista.java'
+'C:/Users/jimen/Documents/NetBeansProjects/ProyectoV04/src/main/java/com/mycompany/proyectov04/KeyboardInput.java'
+'C:/Users/jimen/Documents/NetBeansProjects/ProyectoV04/src/main/java/com/mycompany/proyectov04/RegistrosAcademicos.java'
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\src\main\java = 1638844702180
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\allclasses-index.html = 1638999643465
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\allpackages-index.html = 1638999643468
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\element-list = 1638999643394
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\help-doc.html = 1638999643500
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\index-all.html = 1638999643493
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\index.html = 1638999643496
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\jquery-ui.overrides.css = 1638999643539
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\member-search-index.js = 1638999643473
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\module-search-index.js = 1638999643469
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\overview-tree.html = 1638999643449
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\package-search-index.js = 1638999643471
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\script.js = 1638999643506
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\search.js = 1638999643510
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\stylesheet.css = 1638999643503
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\tag-search-index.js = 1638999643474
+C:\Users\jimen\Documents\NetBeansProjects\ProyectoV04\target\site\apidocs\type-search-index.js = 1638999643472
