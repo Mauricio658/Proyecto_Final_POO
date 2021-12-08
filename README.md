@@ -1,7 +1,7 @@
 # "Programadores TNT"
 
 
-                                                                               Ciudad Universitaria, 09 Diciembre 2021
+                                                                                      Ciudad Universitaria, 09 Diciembre 2021
 
 Por medio de esta presente daremos por concluido el proyecto de desarrollo de software  “Administración Escolar” realizado con la finalidad de acreditar y demostrar lo aprendido 
 en la asignatura “Programación Orientada a Objetos” que se imparte en la “Facultad de Ingeniería”.  
